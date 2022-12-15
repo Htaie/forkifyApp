@@ -7,7 +7,7 @@
     "start": "parcel index.html",
     "build": "parcel build index.html --dist-dir ./dist"
   },
-  "author": "hataie",
+  "author": "Hataie",
   "license": "ISC",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.0",
